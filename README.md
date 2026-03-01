@@ -29,33 +29,22 @@ The goal of this project is to deliver a modern, immersive,
 and technically robust digital presence for the game.
 </p>
 
-<h2 align="center">Live Demo</h2>
+<h2 align="center">Features</h2>
 
-<p align="center">
-You can visit the live website
-<a href="https://wakandianshield.github.io/ElUltimoMiembro-Website/">
-<b>here</b>
-</a>
-</p>
-
-<p align="center">
-<img width="70%" alt="Captura de pantalla 2026-02-28 202828" src="https://github.com/user-attachments/assets/435fc77c-e5fd-44ce-a7c1-5a825cac2a9c" />
-</p>
-
+- Responsive design  
+- Game information and preview section  
+- Direct download access  
+- Backend-ready architecture  
+- Database integration support  
+- Clean and modern gaming interface  
 
 <h2 align="center">Tech Stack</h2>
 
-<p align="center">
-HTML5 - Semantic structure  
-<br>
-CSS3 - Styling and responsive design  
-<br>
-JavaScript - Client-side interactivity  
-<br>
-Node.js - Backend logic  
-<br>
-MySQL - Database management  
-</p>
+- HTML5 - Semantic structure  
+- CSS3 - Styling and responsive design  
+- JavaScript - Client-side interactivity  
+- Node.js - Backend logic  
+- MySQL - Database management  
 
 <h2 align="center">Project Structure</h2>
 
@@ -77,14 +66,18 @@ ElUltimoMiembro-Website/
     └── media/
 </pre>
 
-<h2 align="center">Features</h2>
+<h2 align="center">Live Demo</h2>
 
-- Responsive design  
-- Game information and preview section  
-- Direct download access  
-- Backend-ready architecture  
-- Database integration support  
-- Clean and modern gaming interface  
+<p align="center">
+You can visit the live website
+<a href="https://wakandianshield.github.io/ElUltimoMiembro-Website/">
+<b>here</b>
+</a>
+</p>
+
+<p align="center">
+<img width="70%" alt="Captura de pantalla 2026-02-28 202828" src="https://github.com/user-attachments/assets/435fc77c-e5fd-44ce-a7c1-5a825cac2a9c" />
+</p>
 
 <h2 align="center">Contact</h2>
 
